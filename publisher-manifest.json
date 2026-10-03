@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "3e2c7781a5d76f963a649859",
+  "owner": "fpxmgqfqx",
+  "repo": "page-8f30307af01b3dc71da0b769",
+  "title": "出口",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8f30307af01b3dc71da0b769",
+      "a": "出口",
+      "b": "",
+      "entity": "出口",
+      "brand": "出口",
+      "separator": "",
+      "path": "index.html",
+      "hash": "c7e7909c51b966714362d13ab772fa6c5a4f193c2134616c6e4aaf7ce7976dec",
+      "content": {
+        "keyword1": "出口",
+        "keyword2": "",
+        "primary_entity": "出口",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "出口是面向跨境办公、学术访问与流媒体加速的官方机场平台，提供清晰套餐、多端客户端下载与稳定网络加速服务。",
+          "AI_DESCRIPTION": "出口是面向跨境办公、学术访问与流媒体加速的官方机场平台，提供清晰套餐、多端客户端下载与稳定网络加速服务。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html,body{margin:0;padding:0;overflow-x:hidden}body{font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Noto Sans SC\",\"Microsoft YaHei\",sans-serif;font-size:16px;line-height:1.65;color:#12233a;background:#eef4f7}a{color:#088a94;text-decoration:none}a:focus{outline:2px solid #0db8c4;outline-offset:2px}header{background:#0a2f4a;color:#fff;padding:14px 16px}header .brand{font-weight:700;font-size:1.15rem;letter-spacing:.04em}nav{display:flex;flex-wrap:wrap;gap:8px 14px;margin-top:10px}nav a{color:#dff6f8;font-size:.95rem}main{max-width:960px;margin:0 auto;padding:18px 16px 40px}.lead{background:#0a2f4a;color:#f4fbfc;padding:22px 18px;border-radius:10px;margin:0 0 18px}h1{margin:0 0 8px;font-size:1.85rem;line-height:1.25;color:#fff}h2{margin:28px 0 12px;font-size:1.35rem;color:#0a2f4a;border-left:4px solid #0db8c4;padding-left:10px}h3{margin:16px 0 8px;font-size:1.08rem;color:#0a2f4a}.muted{color:#4a6070}.panel{background:#fff;border:1px solid #cfe0e8;border-radius:10px;padding:16px;margin:12px 0}.cards{display:flex;flex-wrap:wrap;gap:12px}.card{flex:1 1 260px;background:#fff;border:1px solid #cfe0e8;border-radius:10px;padding:16px}.card.featured{border:2px solid #0db8c4;background:#f3fcfd}.price{font-size:1.4rem;font-weight:700;color:#0a2f4a}.annual{font-size:.92rem;color:#088a94;margin:4px 0 10px}.card ul{margin:0;padding-left:18px}.tag{display:inline-block;background:#0db8c4;color:#07343a;font-size:.78rem;font-weight:700;padding:2px 8px;border-radius:999px;margin-bottom:8px}#faq{background:#e6f8fa;border:1px solid #b7e6ea;border-radius:10px;padding:16px;margin-top:8px}details{background:#fff;border:1px solid #c5dce3;border-radius:8px;padding:10px 12px;margin:8px 0}summary{font-weight:700;color:#0a2f4a}details p{margin:8px 0 0;color:#234}.steps{counter-reset:step}.steps li{margin:8px 0}.cta{display:inline-block;background:#0db8c4;color:#07343a;font-weight:700;padding:10px 14px;border-radius:8px;margin:6px 8px 6px 0}.ads,.links{font-size:.95rem}.links ul{margin:0;padding-left:18px}footer{background:#0a2f4a;color:#d7e8ef;padding:18px 16px;font-size:.9rem}footer a{color:#9ee7ee}.note{font-size:.92rem}</style><header><div class=\"brand\">出口官网</div><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐方案</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#ads\">合作广告</a><a href=\"#friends\">友情链接</a></nav></header><main><section class=\"lead\" id=\"intro\"><h1>出口</h1><p>出口是提供机场订阅与网络加速的官方网站。我们把稳定线路、清晰流量与多端客户端下载放在同一处，帮助你用更少步骤完成梯子接入、加速器配置和日常跨境访问。</p><p class=\"note\">本页面向需要长期可用节点、流媒体解锁与办公加速的用户，套餐公开、说明完整，下载指引与导入步骤均可在页面内完成阅读。</p><p><a class=\"cta\" href=\"#plans\">查看套餐</a><a class=\"cta\" href=\"#download\">前往下载说明</a></p></section><section><h2>品牌简介</h2><div class=\"panel\"><p>出口专注机场订阅服务：你获得的是可导入主流客户端的订阅地址，而不是一次性临时代理。线路覆盖常规中转与 IPLC 游戏优化节点，适合把工作、学习和娱乐流量分开处理。</p><p>与含糊其辞的加速器不同，出口把设备数量、月流量、流媒体权限和工单等级写进套餐。旗舰版面向重度使用与游戏加速，团队版面向多设备协同。官方身份以本站套餐公示、下载说明与工单通道为准。</p><p>如果你在找能长期续费的梯子网络加速方案，出口把「选套餐—下客户端—导入订阅—选择节点」压缩成一条可执行路径。</p></div></section><section id=\"plans\"><h2>套餐方案</h2><p class=\"muted\">价格含基础线路维护。年付按 10 个月计费。流量按自然月重置，不结转。</p><div class=\"cards\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"card featured\"><p class=\"tag\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"panel\"><h3>跨境办公与远程协作</h3><p>会议、文档云盘、代码仓库与海外 SaaS 需要连续会话。基础版即可覆盖轻度办公；多开设备或高峰时段建议旗舰版，减少掉线重连。</p><h3>学术资料与公开信息访问</h3><p>期刊站点、预印本库与公开数据集经常对线路质量敏感。出口机场提供可切换的节点池，遇到单个出口拥塞时可换线继续检索。</p><h3>流媒体与内容库</h3><p>基础版对应常见内容库的基础解锁；旗舰版强调全节点原生流媒体，降低地区片源校验失败的概率。</p><h3>游戏加速</h3><p>对延迟抖动敏感的对战与更新下载，优先走旗舰版 IPLC 专线说明中的游戏节点。团队版适合工作室多终端同时更新客户端。</p></div></section><section id=\"guide\"><h2>操作说明</h2><div class=\"panel\"><h3>从开通到连上</h3><ol class=\"steps\"><li>在官网选定套餐并完成订购，进入用户中心复制订阅链接。</li><li>根据系统下载对应客户端：Windows / macOS 常用 Clash 兼容内核或独立加速器；Android 使用支持订阅的客户端；iOS 使用可导入订阅的工具。</li><li>打开客户端，选择「从 URL 导入」或「订阅管理」，粘贴出口提供的订阅地址并更新节点列表。</li><li>先选延迟较低的常规节点完成连通测试，再按场景切换流媒体或游戏专线。</li><li>开启系统代理或 TUN 模式。浏览器与终端默认走规则分流，国内站点不必全部经机场。</li></ol><h3>日常维护</h3><p>订阅一般每 12 至 24 小时自动更新。若节点大面积超时，先手动更新订阅，再更换地区线路。流量在用户中心实时可见，接近额度时降级高峰应用或升级套餐。</p><p>同一账号设备数超限会挤掉最早在线的会话。团队版可按部门划分路由，把办公网段与娱乐网段分开。</p></div></section><section id=\"download\"><h2>客户端下载</h2><div class=\"panel\"><p>出口不捆绑来路不明的安装包。请只从本站下载说明所指向的官方渠道获取客户端，再用订阅链接导入。下列为推荐组合，链接指向本页对应说明锚点，便于对照配置。</p><h3>桌面端</h3><p>Windows：Clash 兼容客户端或 v2rayN 类工具，导入订阅后开启系统代理。macOS：Clash / Surge 类工具，建议开启增强模式以覆盖命令行流量。</p><h3>移动端</h3><p>Android：支持 Clash / sing-box 订阅的客户端。iOS：使用可添加 HTTPS 订阅的客户端，按系统指引安装描述文件后连接。</p><p><a class=\"cta\" href=\"#guide\">查看导入步骤</a><a class=\"cta\" href=\"#faq\">下载常见疑问</a></p><p class=\"note\">若安装包校验失败，删除后重新获取。出口官网只对订阅可用性负责，第三方客户端版本请自行核对其发布页。</p></div></section><section id=\"faq\"><h2>常见问题</h2><p class=\"muted\">以下为使用出口机场与 VPN 客户端时最常被问到的事项，展开即可阅读完整说明。</p><details><summary>出口和普通加速器有什么区别？</summary><p>出口提供可长期使用的机场订阅，节点列表随套餐更新，而不是一次性试用线路。你可以用同一订阅在多台已授权设备上导入，按规则分流国内与跨境流量。普通加速器往往把协议和节点藏在封闭客户端里，出口把订阅标准公开，方便更换 Clash 等主流客户端。</p></details><details><summary>如何完成客户端下载并保证来源可靠？</summary><p>先打开本页「客户端下载」对照系统选择工具类型，再到对应软件的官方发布页获取安装包。不要使用来路不明的网盘打包。安装完成后回到出口用户中心复制订阅，在客户端内用 URL 导入。若系统提示未知来源，核对数字签名或哈希后再继续。</p></details><details><summary>订阅链接导入失败怎么办？</summary><p>检查链接是否完整复制，包含协议头与令牌。关闭再打开客户端后手动「更新订阅」。公司网络若拦截更新域名，可临时切换手机热点完成首次拉取。仍失败时提交工单并附上客户端日志中的状态码，旗舰版与团队版享有优先处理。</p></details><details><summary>三个套餐分别适合谁？</summary><p>基础版适合单人轻度办公与基础流媒体，每月 100GB、3 台设备。旗舰版适合日常高强度访问、原生流媒体和游戏加速，300GB 与 5 台设备，并含 IPLC 优化与全天候工单。团队版面向工作室或小企业，1000GB、20 台设备，可做定制路由并配备客户经理。</p></details><details><summary>流量如何统计，用尽后还能上网吗？</summary><p>统计以出口网关记录为准，含上下行。当月额度用尽后，连接会被限制或降速，不会自动扣费升级。可等待次月重置，或在用户中心升级到更高档。仅测速、仅更新订阅产生的流量同样计入，建议关闭无关自动更新。</p></details><details><summary>是否支持流媒体解锁和游戏加速？</summary><p>基础版覆盖基础流媒体节点。旗舰版强调全节点原生解锁，并单独标注 IPLC 游戏加速线路，延迟更稳。若某个片源仍提示地区限制，切换同地区备用节点，避免使用已标记为「仅办公」的中转。</p></details><details><summary>设备数超限或需要发票、对公结算怎么处理？</summary><p>超限时最早登录的设备会被踢出，退出不用的终端即可。团队版支持更高并发与企业定制路由。对公结算、发票与专属客户经理仅团队版默认提供；旗舰版可通过工单咨询年付合同，基础版以个人在线订购为主。</p></details></section><section id=\"ads\" class=\"ads\"><h2>合作广告</h2><div class=\"panel\"><p>出口官网可投放与网络工具、云主机、跨境协作相关的文字合作位。当前展示为站点说明位，不跳转外部追踪脚本。</p><p><a href=\"#intro\">出口品牌介绍位</a> · <a href=\"#plans\">套餐展示合作</a> · <a href=\"#download\">客户端教程联名</a></p></div></section><section id=\"friends\" class=\"links\"><h2>友情链接</h2><div class=\"panel\"><ul><li><a href=\"#download\">出口客户端下载说明</a></li><li><a href=\"#guide\">出口订阅导入指南</a></li><li><a href=\"#faq\">出口常见问题中心</a></li><li><a href=\"#plans\">出口机场套餐一览</a></li></ul><p class=\"muted\">友链仅保留与官方文档相关的页内入口，避免无关外跳。</p></div></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>出口官方网站 · 机场订阅与网络加速服务</p><p><a href=\"#intro\">回到简介</a> · <a href=\"#faq\">常见问题</a> · <a href=\"#\">canonical 官网</a></p><p>© 出口 保留页面说明与套餐公示。客户端软件版权归各自开发者所有。</p></footer>",
+          "hash": "e6ba5bd553e4414e71106766373bb2cbcea27482391cb322af5649fda5e1fe05",
+          "seo": {
+            "title": "出口官方网站 | 机场订阅、加速器客户端下载与梯子网络加速",
+            "keywords": "出口,出口官网,出口机场,出口VPN,出口下载,机场订阅,网络加速,梯子,加速器,客户端下载",
+            "description": "出口是面向跨境办公、学术访问与流媒体加速的官方机场平台，提供清晰套餐、多端客户端下载与稳定网络加速服务。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "taluozhanxing.cn",
+    "host": "p-9707beb660.taluozhanxing.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "taluozhanxing.cn",
+      "url": "https://taluozhanxing.cn/",
+      "label": "InfiniPort",
+      "apex": "taluozhanxing.cn",
+      "kind": null,
+      "identity": "ber4gyatf/page-05e1783b249627258094aa5d"
+    },
+    {
+      "host": "emtiwle.cn",
+      "url": "https://emtiwle.cn/",
+      "label": "出口",
+      "apex": "emtiwle.cn",
+      "kind": null,
+      "identity": "xyfyuna/page-018f88560cd7af45290ac005"
+    },
+    {
+      "host": "emypf.cn",
+      "url": "https://emypf.cn/",
+      "label": "出口",
+      "apex": "emypf.cn",
+      "kind": null,
+      "identity": "jmujsmm/page-46ec506358950ffa259734dc"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "961d7a4722621cdf937ef8db1854befd0dc6fcb5fe946897bc2de22dabde6b21",
+    "sitemap.xml": "61a68d93f2c7ef9fe99f6f5f6822ea0c373580f72c62ef6300e36a4441fa3c54",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "cf251a7cf62a678a7fe6a0ef0dfe8e6d1922b2fc639006abff3340fb2d717ceb",
+    "robots.txt": "6d18272200c929f8629cd561e795ee5e0774d4ff5a7d2e97388f359a08176539",
+    "777cad324f3ed96f0b91fc1148d2872b.txt": "f0e47d286aded3e5492d481b3c4e2017d8bb4acae750a5ec62d2b4f5f20a8e70"
+  },
+  "revision": "dbd1de8533bd24bfe1e2961121a01e282e81a22ecd7b8b1007097fb1627ea421"
+}
